@@ -1,4 +1,4 @@
-package com.smitcoderx.learn.todocleanarchitecture
+package com.smitcoderx.learn.todocleanarchitecture.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
